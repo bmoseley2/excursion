@@ -1,0 +1,21 @@
+h1 {
+    color: white;
+    text-align: center;
+    font-size: 68px;
+} 
+
+header {
+    color: white;
+}
+body {
+    background-color: black;
+    position: absolute;
+}
+html { 
+    overflow-y: scroll; 
+}
+.link {
+    text-align: center;
+    color: green;
+    font-size: 20px;
+}
